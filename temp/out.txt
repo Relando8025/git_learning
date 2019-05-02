@@ -1,0 +1,4 @@
+总用量 12
+-rw-rw-r-- 1 sara sara 157 3月  14 22:58 demo1.sh
+-rw------- 1 sara sara  58 3月  14 22:48 for.sh
+-rw-rw-r-- 1 sara sara 198 3月  14 23:09 while.sh
